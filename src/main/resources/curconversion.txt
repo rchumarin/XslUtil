@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Body>
+<Field FieldName="DOCUMENTDATE" DataType="DATE">10.03.2015</Field>
+<Field FieldName="DOCUMENTNUMBER" DataType="STRING"><![CDATA[135]]></Field>
+<Field FieldName="CUSTID" DataType="INTEGER">60</Field>
+<Field FieldName="SENDEROFFICIALS" DataType="STRING"><![CDATA[111]]></Field>
+<Field FieldName="CUSTOMERNAME" DataType="STRING"><![CDATA[ОАО "ТЕСТ"]]></Field>
+<Field FieldName="CUSTOMERPROPERTYTYPE" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="CUSTOMERINN" DataType="STRING"><![CDATA[224444223339]]></Field>
+<Field FieldName="CUSTOMEROKPO" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="CUSTOMERPLACE" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="CUSTOMERPLACETYPE" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="CUSTOMERADDRESS" DataType="STRING"><![CDATA[ул. Дубининская, д.31а]]></Field>
+<Field FieldName="CUSTOMERCOUNTRY" DataType="STRING"><![CDATA[643]]></Field>
+<Field FieldName="ACCOUNTRUR" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="ACCOUNTCURR" DataType="STRING"><![CDATA[0]]></Field>
+<Field FieldName="CUSTOMERTYPE" DataType="INTEGER" NULL="true"/>
+<Field FieldName="PHONEOFFICIAL" DataType="STRING"><![CDATA[1111]]></Field>
+<Field FieldName="FAXOFFICIAL" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="REQUESTRATE" DataType="DOUBLE" NULL="true"/>
+<Field FieldName="ACCOUNTDEBET" DataType="STRING"><![CDATA[40702810000000000001]]></Field>
+<Field FieldName="CURRCODEDEBET" DataType="STRING"><![CDATA[810]]></Field>
+<Field FieldName="AMOUNTDEBET" DataType="MONEY">10.0000</Field>
+<Field FieldName="ACCOUNTCREDIT" DataType="STRING"><![CDATA[40702840000000000001]]></Field>
+<Field FieldName="CURRCODECREDIT" DataType="STRING"><![CDATA[840]]></Field>
+<Field FieldName="AMOUNTCREDIT" DataType="MONEY">10.0000</Field>
+<Field FieldName="DEBETBANKBIC" DataType="STRING"><![CDATA[044525823]]></Field>
+<Field FieldName="DEBETBANKTYPE" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="DEBETBANKNAME" DataType="STRING"><![CDATA[ГПБ (ОАО)]]></Field>
+<Field FieldName="DEBETBANKPLACE" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="DEBETBANKPLACETYPE" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="CUSTOMERPLACE" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="DEBETBANKCORRACC" DataType="STRING"><![CDATA[30101810800000000763]]></Field>
+<Field FieldName="CREDITBANKBIC" DataType="STRING"><![CDATA[046311763]]></Field>
+<Field FieldName="CREDITBANKTYPE" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="CREDITBANKNAME" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="CREDITBANKPLACE" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="CREDITBANKCORRACC" DataType="STRING"><![CDATA[30101810800000000763]]></Field>
+<Field FieldName="CREDITBANKPLACETYPE" DataType="STRING"><![CDATA[Г]]></Field>
+<Field FieldName="VALIDITYPERIOD" DataType="DATE" NULL="true"/>
+<Field FieldName="PAYMENTDETAILS" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="CHARGEACCOUNT" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="VALUEDATETYPE" DataType="STRING"><![CDATA[]]></Field>
+<Field FieldName="GROUNDRECEIPTSBLOBS" DataType="BLOBTABLE" NULL="true"/> 
+<Field FieldName="CURRCODECHARGE" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="OPERCODE" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="OPERCODEDESCRIPTION" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="CURRDEALINQUIRYNUMBER" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="CURRDEALINQUIRYDATE" DataType="DATE" NULL="true"/> 
+<Field FieldName="RESERVED" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="RESERVED1" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="DEALTYPE" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="REQUESTRATETYPE" DataType="INTEGER">1</Field> 
+<Field FieldName="CHARGETYPE" DataType="INTEGER" NULL="true"/> 
+<Field FieldName="SUPPLYCONDITION" DataType="STRING"><![CDATA[-]]></Field> 
+<Field FieldName="SUPPLYCONDITIONDATE" DataType="DATE" NULL="true"/> 
+<Field FieldName="BANKAGREEMENT" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="TRANSFERDOCUMENTNUMBER" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="TRANSFERDOCUMENTDATE" DataType="DATE" NULL="true"/> 
+<Field FieldName="DEPOINFO" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="CREDITBANKSWIFT" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="" DataType="STRING"><![CDATA[]]></Field> 
+<Field FieldName="" DataType="INTEGER" NULL="true"/> 
+<Field FieldName="UNIQ_KEY" DataType="STRING"><![CDATA[9721]]></Field>
+</Body>
